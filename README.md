@@ -46,9 +46,9 @@ This is my usual workflow:
     b. Real behaviour: `main.py` will receive the data, separate it and update discord's rpc and throw a `RuntimeError` because another loop is running.
     
  # To Do
- -Fix `main.py` behaviour
- -Elapsed Time (just search the html for the remaining time every few s)
- -Join someone on rpc (provide the link to rpc so when someone clicks on Join, it will go there)
- -Netflix image on rpc
- -Netflix image on extension
- -Improve UI of extension
+ - Fix `main.py` behaviour
+ - Elapsed Time (just search the html for the remaining time every few s)
+ - Join someone on rpc (provide the link to rpc so when someone clicks on Join, it will go there)
+ - Netflix image on rpc
+ - Netflix image on extension
+ - Improve UI of extension
