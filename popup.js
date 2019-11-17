@@ -64,6 +64,3 @@ window.onload = function() {
         start();
     });
 }
-
-//*[@id="appMountPoint"]/div/div/div[1]/div/div/div[2]/div/div[3]/div/div[5]/div[2]/div[2]/div[2]/div
-//645253786759069697
